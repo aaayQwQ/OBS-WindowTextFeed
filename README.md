@@ -11,7 +11,7 @@
 
 ## 🔧 安装与使用
 
-1. 确保 OBS 支持 Python 脚本（推荐 OBS 26+，Python 3.6 - 3.11）
+1. 确保 OBS 支持 Python 脚本（推荐 OBS 21+，Python 3.6 - 3.11）
 2. 将 `window_title_filter.py` 添加到 OBS 的脚本界面
 3. 填写参数：
    - 文本源名称（需先在 OBS 中添加文本源）
